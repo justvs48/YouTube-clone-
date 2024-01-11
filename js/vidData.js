@@ -40,6 +40,27 @@ const videos=[
         ytprofile:'https://supersimple.dev/public/img/exercises/youtube/channel-profile-pics/channel-1.jpeg',
         ytName:'Marques Brownlee',
         ytViews:'3.4M views · 6 months ago'      
+    },
+    {
+        thumbnail:'https://supersimple.dev/public/img/exercises/youtube/thumbnails/thumbnail-1.webp',
+        name:'Talking Tech and AI with Google CEO Sundar Pichai!',
+        ytprofile:'https://supersimple.dev/public/img/exercises/youtube/channel-profile-pics/channel-1.jpeg',
+        ytName:'Marques Brownlee',
+        ytViews:'3.4M views · 6 months ago'      
+    },
+    {
+        thumbnail:'https://supersimple.dev/public/img/exercises/youtube/thumbnails/thumbnail-1.webp',
+        name:'Talking Tech and AI with Google CEO Sundar Pichai!',
+        ytprofile:'https://supersimple.dev/public/img/exercises/youtube/channel-profile-pics/channel-1.jpeg',
+        ytName:'Marques Brownlee',
+        ytViews:'3.4M views · 6 months ago'      
+    },
+    {
+        thumbnail:'https://supersimple.dev/public/img/exercises/youtube/thumbnails/thumbnail-1.webp',
+        name:'Talking Tech and AI with Google CEO Sundar Pichai!',
+        ytprofile:'https://supersimple.dev/public/img/exercises/youtube/channel-profile-pics/channel-1.jpeg',
+        ytName:'Marques Brownlee',
+        ytViews:'3.4M views · 6 months ago'      
     }
 ]
 
