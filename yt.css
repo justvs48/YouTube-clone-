@@ -2,21 +2,32 @@ p{
     margin:0;
     font-family: 'Roboto', sans-serif;
 }
+.video
+{
+    display: flex;
+    flex-direction: column;
+    flex:1
+
+}
 .all-videos
 {
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 10px;
     row-gap: 10px;
+    
 
 }
 .thumbnail img{
     width:100%;
+    border-radius: 10px;
+    cursor: pointer;
 
 }
 .video-details
 {
-    background-color: grey;
+    cursor: pointer;
+    /* background-color: grey; */
     display: flex;
     
 }
