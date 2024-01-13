@@ -1,0 +1,25 @@
+.vid-category
+{
+    
+    overflow:hidden;
+    white-space: nowrap;
+    /* justify-content: space-between; */
+    padding-top: 17px;
+    margin-bottom: 20px;
+    font-family: Roboto,"Arial";
+    font-weight: 500;
+    font-size: 15px;
+    
+}
+.vid-category div
+{
+    display: inline-block;
+    margin-right:20px; 
+    background-color: rgb(239, 235, 235);
+    padding-left: 11px;
+    padding-right:11px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+
+}

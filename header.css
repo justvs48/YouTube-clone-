@@ -53,6 +53,8 @@
     border-radius: 40px 0 0 40px;
     box-shadow: inset 0px 1px 2px #eeeeee;
     max-width: 358px;
+    font-size: 17px;
+    font-weight: 500;
 }
 .searchbar::placeholder
 {
