@@ -51,16 +51,22 @@
     margin: 0;
     border: 1px solid #CCCCCC;
     border-radius: 40px 0 0 40px;
-    box-shadow: inset 0px 1px 2px #eeeeee;
+    
     max-width: 358px;
     font-size: 17px;
     font-weight: 500;
+    margin-right:1px;
 }
 .searchbar::placeholder
 {
     font-family: Roboto,Arial;
     font-size: 15px;
     font-weight: 300;
+}
+.searchbar.searchbar:click
+{
+    box-shadow: inset 10px 1px 2px #eeeeee;
+
 }
 .search-button
 {
@@ -115,3 +121,25 @@
 {
     height: 100%;
 }
+
+.yt-noti
+{
+    position: relative;
+}
+.noti-value
+{
+    position: absolute;
+    /* z-index: 2; */
+    background-color: rgb(217, 29, 29);
+    color: #CCCCCC  ;
+    font-weight:400;
+    border: 2px solid white;
+    font-size: 12px;
+    padding-left: 4px;
+    padding-right: 4px;
+    top: -3px;
+    right: -2px;
+    border-radius: 50%;
+    margin: 2px;
+}
+

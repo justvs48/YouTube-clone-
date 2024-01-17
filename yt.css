@@ -18,16 +18,29 @@ p{
     
 
 }
+.thumbnail
+{
+    position: relative;
+}
+.time-stamp
+{   position: absolute;
+    background-color:#141616;
+    color: white;
+    right: 6px;
+    bottom: 9px;
+    padding:2px;
+    font-size: 13px;
+    font-weight: 600;
+}
 .thumbnail img{
     width:100%;
     border-radius: 10px;
-    cursor: pointer;
+
 
 }
 .video-details
 {
-    cursor: pointer;
-    /* background-color: grey; */
+    
     display: flex;
     
 }
@@ -77,4 +90,5 @@ p{
     line-height: 18px;
     
 }
+
 
