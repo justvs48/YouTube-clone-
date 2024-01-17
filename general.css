@@ -7,4 +7,9 @@ body
     margin-right: 10px;
     font-weight: 400;
     line-height: 1.5;
+
+}
+button
+{
+    cursor: pointer;
 }
