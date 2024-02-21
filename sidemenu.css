@@ -1,9 +1,10 @@
 .sideMenuMain
 {
 
+    padding-top: 9px;
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
-    font-size: 17px;
+    font-size: 15px;
     position: fixed;
     top: 57px ; 
     bottom: 0;
